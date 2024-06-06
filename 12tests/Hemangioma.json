@@ -1,0 +1,112 @@
+[
+    {
+        "input": "How can high estrogen levels affect the development of vascular tumors in newborns?",
+        "options": {
+          "a": "Inhibiting blood vessel growth",
+          "b": "Reducing the risk of tumor formation",
+          "c": "Promoting growth of endothelial cells",
+          "d": "Inducing apoptosis in tumor cells"
+        },
+        "answer": "c"
+    },
+    {
+        "input": "What is highlighted as the most suitable treatment method for vascular tumors in infants and young children?",
+        "options": {
+          "a": "Traditional surgery",
+          "b": "Laser treatment",
+          "c": "Microinvasive intervention with high-frequency electrode",
+          "d": "Isotope therapy"
+        },
+        "answer": "c"
+    },
+    {
+        "input": "Which type of vascular tumor is most commonly found in the liver?",
+        "options": {
+          "a": "Ischemic vascular tumor",
+          "b": "Cavernous hemangioma",
+          "c": "Arteriovenous malformation",
+          "d": "Capillary hemangioma"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "What symptoms are commonly associated with liver hemangiomas larger than 4 centimeters?",
+        "options": {
+          "a": "No noticeable symptoms",
+          "b": "Digestive issues and hepatomegaly",
+          "c": "Skin discoloration and itching",
+          "d": "Respiratory difficulties"
+        },
+        "answer": "b"
+    },
+    {
+      "input": "What is a vascular malformation that involves a collection of small blood vessels and is typically present at birth?",
+      "options": {
+        "a": "Hemangioma",
+        "b": "Aneurysm",
+        "c": "Thrombosis",
+        "d": "Embolism"
+      },
+      "answer": "a"
+    },
+    {
+      "input": "Which imaging technique is often used to diagnose vascular malformations, allowing detailed visualization of blood vessels?",
+      "options": {
+        "a": "X-ray",
+        "b": "Magnetic Resonance Imaging (MRI)",
+        "c": "Computed Tomography (CT) scan",
+        "d": "Ultrasound"
+      },
+      "answer": "b"
+    },
+    {
+      "input": "What is a capillary hemangioma?",
+      "options": {
+        "a": "A malignant tumor originating from arteries",
+        "b": "A benign tumor originating from capillaries",
+        "c": "A cancerous growth in blood vessels",
+        "d": "A tumor formed in lymphatic vessels"
+      },
+      "answer": "b"
+    },
+    {
+      "input": "In which areas of the body is capillary hemangioma more commonly found?",
+      "options": {
+        "a": "Limbs",
+        "b": "Abdomen",
+        "c": "Head and face",
+        "d": "Chest"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "What are the treatment options for larger capillary hemangiomas?",
+      "options": {
+        "a": "Topical creams",
+        "b": "Surgical removal",
+        "c": "Oral medications",
+        "d": "Intravenous chemotherapy"
+      },
+      "answer": "b"
+    },
+    {
+      "input": "Why is early treatment recommended for vascular malformations?",
+      "options": {
+        "a": "To prevent genetic mutations",
+        "b": "To minimize hormonal imbalances",
+        "c": "To control postnatal environmental factors",
+        "d": "To prevent tumor growth and spread"
+      },
+      "answer": "d"
+    },
+    {
+      "input": "How can vascular malformations impact the affected areas over time?",
+      "options": {
+        "a": "Enhance surrounding tissues",
+        "b": "Improve organ function",
+        "c": "Erode surrounding tissues and muscles",
+        "d": "Maintain normal organ structure"
+      },
+      "answer": "c"
+    }
+]

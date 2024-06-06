@@ -1,0 +1,92 @@
+[
+  {
+    "input": "What dietary considerations are important for a patient with advanced stomach cancer?",
+    "options": {
+      "a": "Eating small, frequent meals",
+      "b": "Smoking and drinking beer regularly",
+      "c": "Consuming spicy and oily foods",
+      "d": "Avoiding bone broth and fish soup"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "Can a person with stomach cancer drink milk? I love milk but am concerned about its impact on my condition.",
+    "options": {
+      "a": "Avoid milk completely",
+      "b": "Drink milk in large quantities",
+      "c": "Consume small amounts of milk at a time",
+      "d": "Consume milk only during chemotherapy"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "Can cervical cancer patients include eggs in their diet?",
+    "options": {
+      "a": "Eggs are strictly prohibited for cervical cancer patients",
+      "b": "Including eggs in the diet is acceptable and does not have any restrictions",
+      "c": "Only egg whites are recommended, while egg yolks should be avoided",
+      "d": "Cervical cancer patients should avoid all animal products, including eggs"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What dietary recommendations are advisable for cervical cancer patients?",
+    "options": {
+      "a": "Adopting a balanced diet with proper nutritional combinations",
+      "b": "Focusing on fried and grilled foods for nutrition",
+      "c": "Strictly avoiding all forms of exercise and physical activity",
+      "d": "Relying solely on a diet rich in additives and preservatives"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "Which of the following foods is rich in antioxidants and is recommended for cancer prevention?",
+    "options": {
+      "a": "Processed meats",
+      "b": "Sugary snacks",
+      "c": "Dark leafy greens",
+      "d": "Fried foods"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What is the recommended dietary advice for individuals after thyroid tumor surgery?",
+    "options": {
+      "a": "Reduce iodine-rich foods",
+      "b": "Increase consumption of fatty foods",
+      "c": "Include foods with high iodine content",
+      "d": "Avoid all seafood"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "Which foods are suggested to have a dispersing and anti-swelling effect post-thyroid tumor surgery?",
+    "options": {
+      "a": "Spinach and kale",
+      "b": "Yam and taro",
+      "c": "Kiwi and papaya",
+      "d": "Cabbage and mustard greens"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What types of foods are recommended to boost immune function for thyroid tumor patients?",
+    "options": {
+      "a": "Processed meats",
+      "b": "Sugary snacks",
+      "c": "Mushrooms and nuts",
+      "d": "Caffeinated beverages"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What dietary recommendations are given for individuals with cervical cancer concerns?",
+    "options": {
+      "a": "Increase consumption of fatty foods",
+      "b": "Include fresh vegetables and fruits, such as lemon, asparagus, almond paste, water chestnut, red dates, garlic, and black fungus",
+      "c": "Limit intake of all fruits",
+      "d": "Avoid vegetables altogether"
+    },
+    "answer": "b"
+  }
+]

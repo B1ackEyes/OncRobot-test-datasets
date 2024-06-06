@@ -1,0 +1,72 @@
+[
+  {
+    "input": "How can patients contribute to the prevention of infection after undergoing surgery for nasal malignant melanoma?",
+    "options": {
+      "a": "Maintaining indoor cleanliness and hygiene",
+      "b": "Avoiding sunlight exposure",
+      "c": "Consuming herbal supplements",
+      "d": "Participating in physical activities"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "Why is rectal irrigation recommended five days after rectal surgery, and what benefits does it provide in terms of wound healing and intestinal motility?",
+    "options": {
+      "a": "To assist in wound healing, enhance intestinal motility, and prevent intestinal adhesions",
+      "b": "To inhibit wound healing",
+      "c": "To induce pain and discomfort",
+      "d": "To solely relieve pain after surgery"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "Why is emotional support crucial for cancer survivors during the post-treatment period?",
+    "options": {
+      "a": "It has no impact on recovery",
+      "b": "To prevent any future health issues",
+      "c": "To address the psychological and emotional challenges",
+      "d": "To reduce the effectiveness of medications"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "How can patients enhance their recovery and well-being in daily life after rectal cancer surgery?",
+    "options": {
+      "a": "Maintaining a sedentary lifestyle",
+      "b": "Balanced nutritional supplementation and aerobic exercise",
+      "c": "Avoiding any physical activity",
+      "d": "Sedative medications for mood stabilization"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What lifestyle habits are recommended for individuals recovering from breast cancer surgery?",
+    "options": {
+      "a": "Irregular sleep patterns",
+      "b": "Frequent overexertion",
+      "c": "Maintaining a regular sleep schedule and engaging in aerobic exercises",
+      "d": "Avoiding any form of physical activity"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "How should patients manage their daily activities to aid recovery after cervical cancer surgery?",
+    "options": {
+      "a": "Avoid any form of physical activity",
+      "b": "Maintain regular sleep patterns and prevent cold exposure",
+      "c": "Engage in strenuous exercise",
+      "d": "Consume cold foods and beverages"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What is recommended for individuals experiencing persistent discomfort and symptoms after cervical cancer surgery?",
+    "options": {
+      "a": "Self-diagnose and self-medicate",
+      "b": "Seek prompt evaluation at a reputable tertiary hospital",
+      "c": "Ignore the symptoms and hope for improvement",
+      "d": "Rely solely on traditional herbal remedies"
+    },
+    "answer": "b"
+  }
+]

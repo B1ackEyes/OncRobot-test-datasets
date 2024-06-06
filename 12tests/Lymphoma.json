@@ -1,0 +1,72 @@
+[
+    {
+        "input": "What is the primary function of lymph nodes in the human body?",
+        "options": {
+          "a": "Digestion",
+          "b": "Oxygen Transport",
+          "c": "Immune System Surveillance",
+          "d": "Muscle Contraction"
+        },
+        "answer": "c"
+    },
+    {
+      "input": "Which type of cancer affects the lymph nodes and lymphatic system?",
+      "options": [
+          "A. Leukemia",
+          "B. Lymphoma",
+          "C. Osteosarcoma",
+          "D. Glioma"
+      ],
+      "answer": "B"
+    },
+    {
+      "input": "Which of the following is a type of cancer that originates in the lymphatic system?",
+      "options": {
+        "a": "Leukemia",
+        "b": "Sarcoma",
+        "c": "Lymphoma",
+        "d": "Melanoma"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "What is a common symptom of lymphoma?",
+      "options": {
+        "a": "Frequent urination",
+        "b": "Unexplained weight gain",
+        "c": "Swollen lymph nodes",
+        "d": "Chronic cough"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "Which imaging technique is often used to diagnose and stage lymphoma?",
+      "options": {
+        "a": "X-ray",
+        "b": "Ultrasound",
+        "c": "Magnetic Resonance Imaging (MRI)",
+        "d": "Positron Emission Tomography (PET) scan"
+      },
+      "answer": "d"
+    },
+    {
+      "input": "What is the role of the lymphatic system in the human body?",
+      "options": {
+        "a": "Digestion of food",
+        "b": "Transportation of oxygen",
+        "c": "Filtering and draining lymph fluid",
+        "d": "Production of hormones"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "Which type of lymphoma is characterized by the presence of Reed-Sternberg cells?",
+      "options": {
+        "a": "Hodgkin lymphoma",
+        "b": "Non-Hodgkin lymphoma",
+        "c": "Burkitt lymphoma",
+        "d": "Cutaneous T-cell lymphoma"
+      },
+      "answer": "a"
+    }
+]

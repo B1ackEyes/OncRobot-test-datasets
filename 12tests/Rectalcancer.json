@@ -1,0 +1,112 @@
+[
+  {
+        "input": "In advanced stages, rectal cancer can invade nearby organs. Which of the following symptoms may result from such invasion?",
+        "options": {
+          "a": "Increased bowel movements",
+          "b": "Difficulty in urination",
+          "c": "Improved appetite",
+          "d": "Reduced abdominal pain"
+        },
+        "answer": "b"
+  },
+  {
+      "input": "What is the recommended screening method for colorectal cancer?",
+      "options": [
+          "A. Colonoscopy",
+          "B. Mammography",
+          "C. Pap smear",
+          "D. Prostate-specific antigen (PSA) test"
+      ],
+      "answer": "A"
+  },
+  {
+    "input": "Which of the following screening methods is commonly used for early detection of colorectal cancer?",
+    "options": {
+      "a": "Blood pressure measurement",
+      "b": "Mammography",
+      "c": "Colonoscopy",
+      "d": "Eye examination"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What is the purpose of a colonoscopy in the context of colorectal cancer?",
+    "options": {
+      "a": "To measure blood pressure",
+      "b": "To examine the eyes",
+      "c": "To screen for colorectal cancer",
+      "d": "To check for respiratory problems"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "Which lifestyle factor is associated with an increased risk of colorectal cancer?",
+    "options": {
+      "a": "Regular exercise",
+      "b": "High-fiber diet",
+      "c": "Smoking",
+      "d": "Vegetarian diet"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What is a common symptom of advanced colorectal cancer?",
+    "options": {
+      "a": "Constipation",
+      "b": "Weight loss",
+      "c": "Increased appetite",
+      "d": "Improved bowel movements"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What is the primary method for treating rectal cancer?",
+    "options": {
+      "a": "Surgical procedure only",
+      "b": "Chemotherapy and radiation therapy only",
+      "c": "Surgical procedure combined with chemotherapy and radiation therapy",
+      "d": "No treatment is recommended"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "Which part of the digestive system is specifically affected by rectal cancer?",
+    "options": {
+      "a": "Stomach",
+      "b": "Small intestine",
+      "c": "Colon",
+      "d": "Rectum"
+    },
+    "answer": "d"
+  },
+  {
+    "input": "What are recognized as high-risk factors for the recurrence of rectal cancer?",
+    "options": {
+      "a": "High intake of fruits and vegetables",
+      "b": "Low consumption of animal fats and proteins",
+      "c": "Presence of rectal polyps",
+      "d": "Excessive intake of food fiber"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What is the primary indication for the preoperative resection in rectal cancer?",
+    "options": {
+      "a": "Tumors located in the lower segment of the rectum",
+      "b": "Large-sized tumors with extensive spread to surrounding tissues",
+      "c": "Tumors above 12 cm from the anal verge",
+      "d": "Metastatic rectal cancer"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What are the advantages of the preoperative rectal resection procedure?",
+    "options": {
+      "a": "Extensive removal of surrounding tissues",
+      "b": "Minimal trauma, preserving anal function",
+      "c": "Highly suitable for large-volume cancers",
+      "d": "Invasive surgical approach"
+    },
+    "answer": "b"
+  }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "input": "What precaution should be taken when using anthracycline anti-tumor antibiotics to treat liver cancer?",
+        "options": {
+          "a": "Monitoring kidney function",
+          "b": "Avoiding sunlight exposure",
+          "c": "Avoiding concurrent use with pain relievers",
+          "d": "Ensuring proper venous administration to prevent tissue necrosis"
+        },
+        "answer": "d"
+    },
+    {
+        "input": "What are some examples of anthracycline anticancer antibiotics used in the treatment of liver cancer?",
+        "options": {
+            "a": "Adriamycin (ADM)",
+            "b": "Doxorubicin (DNR)",
+            "c": "Epirubicin (EPI or E-ADM)",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "input": "What precautions should be taken when administering anthracycline antibiotics for liver cancer treatment to prevent cardiac toxicity?",
+        "options": {
+            "a": "Monitoring cardiac function",
+            "b": "Limiting dose escalation",
+            "c": "Selecting appropriate veins for administration",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "input": "What is a significant advantage of interventional therapy for liver cancer in terms of its targeting capability?",
+        "options": {
+            "a": "Limited impact on normal tissues",
+            "b": "Precise tumor localization",
+            "c": "Long-lasting treatment effects",
+            "d": "All of the above"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "Why is interventional therapy for liver cancer considered to have strong repeatability, allowing for multiple and staged treatments?",
+        "options": {
+            "a": "Dependency on tumor cell metabolic cycles",
+            "b": "No limitation imposed by tumor cell metabolism",
+            "c": "Selective and repeatable application",
+            "d": "All of the above"
+        },
+        "answer": "d"
+    },
+    {
+        "input": "What is the primary risk factor for the development of hepatocellular carcinoma (HCC)?",
+        "options": [
+          "a. Chronic alcohol consumption",
+          "b. Hepatitis B virus (HBV) infection",
+          "c. Smoking",
+          "d. High sugar intake"
+        ],
+        "answer": "b"
+    },
+    {
+        "input": "What are the symptoms of late-stage liver cancer?",
+        "options": [
+            "A. Unexplained weight loss.",
+            "B. Abdominal pain and swelling.",
+            "C. Jaundice (yellowing of the skin and eyes).",
+            "D. All of the above."
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Which virus is primarily responsible for causing liver cancer?",
+        "options": [
+            "A. Hepatitis A virus (HAV)",
+            "B. Hepatitis B virus (HBV)",
+            "C. Herpes simplex virus (HSV)",
+            "D. Influenza virus"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the most common type of liver cancer?",
+        "options": [
+            "A. Hepatocellular carcinoma",
+            "B. Cholangiocarcinoma",
+            "C. Angiosarcoma",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    }
+]

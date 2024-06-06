@@ -1,0 +1,82 @@
+[
+    {
+        "input": "What is a common symptom of mid-stage breast cancer?",
+        "options": {
+          "a": "Bloody or watery nipple discharge",
+          "b": "General body weakness and fever",
+          "c": "Digestive issues",
+          "d": "Muscle pain"
+        },
+        "answer": "a"
+    },
+    {
+        "input": "What is recommended for the diet of breast cancer patients?",
+        "options": {
+          "a": "Frequent intake of salty and smoked foods",
+          "b": "Regular consumption of fresh fruits and vegetables",
+          "c": "High-fat diet with fried foods",
+          "d": "Exclusive consumption of processed meats"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "Which dietary recommendation is suggested for breast cancer patients?",
+        "options": {
+          "a": "Regular intake of charred and grilled foods",
+          "b": "Avoiding vegetables like broccoli and carrots",
+          "c": "Including soybeans and carrots in the diet",
+          "d": "Consuming excessive amounts of salted snacks"
+        },
+        "answer": "c"
+    },
+    {
+        "input": "What factor plays a significant role in the occurrence of breast cancer related to hormonal stimulation, particularly in cases of early or late menstruation, nulliparity, delayed childbirth (after the age of 35), and not breastfeeding?",
+        "options": {
+          "a": "Genetic factors",
+          "b": "Viral infections",
+          "c": "Nutritional factors",
+          "d": "Hormonal factors"
+        },
+        "answer": "d"
+    },
+    {
+        "input": "What is the recommended dietary approach for a patient after breast cancer surgery, particularly in the initial 1-2 days post-operation, to address issues like dry mouth and thirst?",
+        "options": {
+          "a": "High-fat diet",
+          "b": "Multiple supplements",
+          "c": "Liquid diet including warm water and fruit juices",
+          "d": "Strict fasting"
+        },
+        "answer": "c"
+    },
+    {
+      "input": "What is the recommended screening test for breast cancer in women?",
+      "options": [
+          "A. Mammography",
+          "B. Pap smear",
+          "C. Colonoscopy",
+          "D. Prostate-specific antigen (PSA) test"
+      ],
+      "answer": "A"
+    },
+    {
+      "input": "What is the most common type of cancer in women?",
+      "options": [
+          "A. Breast cancer",
+          "B. Lung cancer",
+          "C. Colon cancer",
+          "D. Ovarian cancer"
+      ],
+      "answer": "A"
+    },
+    {
+      "input": "What is the most common type of breast cancer?",
+      "options": [
+          "A. Ductal carcinoma in situ",
+          "B. Invasive ductal carcinoma",
+          "C. Inflammatory breast cancer",
+          "D. Lobular carcinoma"
+      ],
+      "answer": "B"
+    }
+]

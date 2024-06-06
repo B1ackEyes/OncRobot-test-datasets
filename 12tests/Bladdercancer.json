@@ -1,0 +1,72 @@
+[
+    {
+        "input": "What is a common initial clinical manifestation of bladder cancer?",
+        "options": [
+            "a. Frequent urination, urgency, and dysuria",
+            "b. Severe back pain and cold extremities",
+            "c. Intermittent, painless, gross hematuria",
+            "d. White discharge from the urethral opening"
+        ],
+        "answer": "c"
+    },
+    {
+        "input": "What dietary restrictions are recommended for individuals with bladder cancer?",
+        "options": [
+            "a. Avoiding onions, garlic, and peppers",
+            "b. Consuming more spicy foods",
+            "c. Increasing alcohol and tobacco consumption",
+            "d. Eating a diet rich in stimulants"
+        ],
+        "answer": "a"
+    },
+    {
+        "input": "What is the purpose of the ileal conduit in patients after ileal bladder surgery?",
+        "options": [
+            "a. To facilitate digestion",
+            "b. To provide a temporary urine storage pouch",
+            "c. To permanently divert urine to the abdominal wall",
+            "d. To prevent postoperative infections"
+        ],
+        "answer": "c"
+    },
+    {
+        "input": "How often should the baseplate of the ostomy device be changed for a patient with an ileal conduit?",
+        "options": [
+            "a. Monthly",
+            "b. Weekly",
+            "c. Daily",
+            "d. Annually"
+        ],
+        "answer": "b"
+    },
+    {
+        "input": "What is the most common risk factor associated with bladder cancer?",
+        "options": {
+          "a": "Genetic predisposition",
+          "b": "Excessive caffeine consumption",
+          "c": "Chronic bladder infections",
+          "d": "Tobacco smoking"
+        },
+        "answer": "d"
+      },
+      {
+        "input": "Which diagnostic method is commonly used for detecting bladder cancer?",
+        "options": {
+          "a": "Electrocardiogram (ECG)",
+          "b": "Magnetic Resonance Imaging (MRI)",
+          "c": "Cystoscopy",
+          "d": "Colonoscopy"
+        },
+        "answer": "c"
+      },
+      {
+        "input": "What is the primary treatment option for non-muscle invasive bladder cancer?",
+        "options": {
+          "a": "Chemotherapy",
+          "b": "Radical cystectomy",
+          "c": "Immunotherapy",
+          "d": "Radiation therapy"
+        },
+        "answer": "c"
+      }
+]

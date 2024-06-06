@@ -1,0 +1,82 @@
+[
+    {
+        "input": "Why is it recommended to avoid smoking and alcohol in stomach cancer management?",
+        "options": {
+          "a": "They enhance tumor growth",
+          "b": "They have stimulating effects",
+          "c": "They suppress the immune system",
+          "d": "They interfere with surgery"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "What is a potential indication of stomach cancer invading the pancreas?",
+        "options": {
+          "a": "Frequent episodes of black stools",
+          "b": "Presence of a hard, immobile lump near the left clavicle",
+          "c": "Recurrent thrombophlebitis",
+          "d": "Appearance of pigmentation on the skin folds"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "What dietary recommendations are suggested for stomach cancer patients experiencing symptoms like bloating and pain?",
+        "options": {
+          "a": "Increase intake of rich and spicy foods",
+          "b": "Consume easily digestible foods",
+          "c": "Opt for high-fat and heavy meals",
+          "d": "Include more fried and preserved foods"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "How should the diet be adjusted for a patient after stomach cancer surgery?",
+        "options": {
+          "a": "Focus on spicy and stimulating foods",
+          "b": "Choose nutritionally rich and less irritating foods",
+          "c": "Include fatty and heavily seasoned dishes",
+          "d": "Emphasize processed and packaged meals"
+        },
+        "answer": "b"
+    },
+    {
+      "input": "What should I do if I am diagnosed with gastric cancer?",
+      "options": [
+          "A. Consult with a surgical oncologist about potential surgery.",
+          "B. Discuss chemotherapy options with your healthcare team.",
+          "C. Explore targeted therapy options.",
+          "D. All of the above."
+      ],
+      "answer": "D"
+  },
+  {
+    "input": "What is the most common type of stomach cancer?",
+    "options": [
+        "A. Adenocarcinoma",
+        "B. Sarcoma",
+        "C. Lymphoma",
+        "D. Neuroendocrine tumor"
+    ],
+    "answer": "A"
+  },
+  {
+    "input": "Which of the following factors is a known risk factor for the development of stomach cancer?",
+    "options": {
+      "a": "Regular exercise",
+      "b": "High-fiber diet",
+      "c": "Chronic infection with Helicobacter pylori",
+      "d": "Vitamin D supplementation"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What is a common method for diagnosing stomach cancer?",
+    "options": {
+      "a": "Blood pressure measurement",
+      "b": "Mammography",
+      "c": "Upper endoscopy (gastroscopy)",
+      "d": "Dental examination"
+    },
+    "answer": "c"
+  }
+]

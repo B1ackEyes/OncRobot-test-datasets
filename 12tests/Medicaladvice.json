@@ -1,0 +1,82 @@
+[
+  {
+    "input": "What is the recommended duration of chemotherapy for ovarian cancer patients, particularly those in late stages or with chemo-resistant tumors?",
+    "options": {
+      "a": "2-4 treatment cycles",
+      "b": "6-8 treatment cycles",
+      "c": "8-10 treatment cycles in the first year, followed by 3-4 treatment cycles in the second year",
+      "d": "12-15 treatment cycles"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What are the recommended methods for relieving jaundice symptoms in severe cases of pancreatic cancer?",
+    "options": [
+      "a. Chemotherapy",
+      "b. Consuming spicy foods",
+      "c. Early surgery, bile duct stent placement, or localized radiation therapy",
+      "d. Fasting for an extended period"
+    ],
+    "answer": "c"
+  },
+  {
+    "input": "What is the primary method for treating multiple myeloma?",
+    "options": {
+      "a": "Chemotherapy",
+      "b": "Radiation therapy",
+      "c": "Surgery",
+      "d": "Immunotherapy"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "If conventional treatments for gastric ulcers and gastritis prove ineffective, what diagnostic procedure is recommended for a more thorough examination?",
+    "options": {
+      "a": "Blood tests",
+      "b": "Ultrasound imaging",
+      "c": "Colonoscopy",
+      "d": "Gastroscopy (endoscopy)"
+    },
+    "answer": "d"
+  },
+  {
+    "input": "For older patients diagnosed with meningiomas, what treatment approach is suggested for its potential effectiveness and safety?",
+    "options": {
+      "a": "Chemotherapy using synthetic drugs",
+      "b": "Surgery as the only viable option",
+      "c": "Natural herbal remedies for their special efficacy and safety",
+      "d": "Strict reliance on Western medicine without exploring alternative treatments"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "What lifestyle and dietary recommendations are advisable for cancer patients with pleural effusion, and what treatment options, including surgery and medications, are suggested?",
+    "options": {
+      "a": "Encouraging the consumption of spicy and greasy foods",
+      "b": "Emphasizing relaxation, easy-to-digest foods, and maintaining warmth, with the possibility of surgery and a combination of chemotherapy drugs and traditional Chinese medicine",
+      "c": "Promoting a sedentary lifestyle and avoiding rest",
+      "d": "Ignoring symptomatic treatment and relying solely on surgery"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What surgical option is recommended for treating an intracranial vascular malformation located in the left frontal lobe?",
+    "options": {
+      "a": "Gamma Knife surgery to minimize trauma",
+      "b": "Exclusively relying on medication for treatment",
+      "c": "Immediate complete excision without considering the size",
+      "d": "Ignoring surgical intervention and opting for natural healing methods"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "What is the recommended surgical approach for thyroid cancer, and why is partial removal or excision discouraged?",
+    "options": {
+      "a": "Partial removal is encouraged to minimize surgery-related complications",
+      "b": "Total removal of the thyroid gland is recommended, as partial removal may leave residual tumors with a higher likelihood of recurrence",
+      "c": "Partial removal is suitable for all cases of thyroid cancer",
+      "d": "No surgical intervention is advised for thyroid cancer"
+    },
+    "answer": "b"
+  }
+]

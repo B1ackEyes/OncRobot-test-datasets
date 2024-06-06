@@ -1,0 +1,1002 @@
+[
+    {
+        "input": "Which of the following people is at high risk for colorectal cancer?",
+        "options": [
+            "A. People after colorectal cancer surgery.",
+            "B. Previously received chest radiotherapy before the age of 30.",
+            "C. Men aged > 45 years with a family history of prostate cancer.",
+            "D. Patients with infection and chronic inflammation."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is a high-risk subject for esophageal cancer?",
+        "options": [
+            "A. Have a family history of esophageal cancer",
+            "B. Suffering from chronic ulcers, long-lasting scars, fistulas, discoid lupus erythematosus, radiation dermatitis, etc.",
+            "C. Frequent exposure to the sun and ultraviolet rays",
+            "D. Those who are Helicobacter pylori (HP) positive, have a history of oral periodontitis, PJ syndrome, etc."
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Which of the following is a symptom of bladder cancer?",
+        "options": [
+            "A. Abnormal vaginal bleeding",
+            "B. Symptoms such as difficulty urinating and urinary retention",
+            "C. Blood in the stool",
+            "D. Unexplained persistent back pain or pain in the spine area"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "Which of the following is a high-risk subject for gastric cancer?",
+        "options": [
+            "A. People with a family history of liver cancer",
+            "B. Those with moderate and severe atrophic gastritis",
+            "C. Have a history of chronic obstructive pulmonary disease or diffuse pulmonary fibrosis.",
+            "D. Have a history of occupational exposure (those exposed to asbestos, beryllium, uranium, radon, etc.)"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "Which of the following is a recommendation for prostate cancer prevention?",
+        "options": [
+            "A. Eradication of Helicobacter pylori infection",
+            "B. Use physical or chemical sun protection outdoors to avoid exposure to the sun",
+            "C. In daily life, drink more water, urinate frequently, and avoid holding in urine and sitting still for long periods of time.",
+            "D. Quit smoking"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Which of the following is a high-risk target for cervical cancer",
+        "options": [
+            "A. Passive smoking",
+            "B. People infected with human papillomavirus (HPV)",
+            "C. Have a history of chronic obstructive pulmonary disease or diffuse pulmonary fibrosis",
+            "D. Have a history of occupational exposure (those exposed to asbestos, beryllium, uranium, radon, etc.)"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "Which of the following is an early symptom of colorectal cancer",
+        "options": [
+            "A. Changes in bowel habits, constipation or diarrhea, or alternating between the two.",
+            "B. Abdominal or pelvic pain or discomfort",
+            "C. A hard mass appears at the bone and joint position, which cannot subside at rest and continues to grow.",
+            "D. Abnormal vaginal bleeding"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is a recommendation for lung cancer prevention?",
+        "options": [
+            "A. Pay attention to avoid indoor air pollution, such as passive smoking, open fire burning coal for heating, exposure to oil fumes, etc.",
+            "B. Do more strenuous exercise",
+            "C. Safe and Healthy Sexual Behavior",
+            "D. Exercise can effectively reduce the occurrence of tumors, and insist on physical exercise to avoid obesity."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is the cause of prostate cancer",
+        "options": [
+            "A. Atrophic gastritis",
+            "B. null",
+            "C. Chronic inflammation of the prostate",
+            "D. Tobacco and Alcohol"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Which of the following is the cause of thyroid cancer",
+        "options": [
+            "A. Helicobacter pylori infection",
+            "B. Chronic inflammation",
+            "C. Tobacco and Alcohol",
+            "D. Insufficient or excessive iodine intake"
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Which of the following is a recommendation for lymphoma prevention?",
+        "options": [
+            "A. Do more strenuous exercise",
+            "B. Exercise less",
+            "C. Avoid radiation exposure and contact with radioactive dust",
+            "D. Safe and Healthy Sexual Behavior"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Which of the following is a possible cause of lymphoma",
+        "options": [
+            "A. Too old",
+            "B. Excessive strenuous exercise",
+            "C. Unhealthy sexual behavior",
+            "D. Long-term exposure to certain pesticides, organic solvents or radiation"
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Which of the following is a symptom of leukemia",
+        "options": [
+            "A. Pale skin, dizziness, fatigue, palpitations, shortness of breath, and excessive sweating",
+            "B. Pain and joint mobility disorders may occur and gradually worsen",
+            "C. Symptoms such as difficulty urinating and urinary retention",
+            "D. Abnormal vaginal bleeding"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is a recommendation for the prevention of soft tissue sarcoma?",
+        "options": [
+            "A. Avoid radiation and strong ultraviolet rays, and increase the intake of β-carotene, carotenoids, vitamins C and E;",
+            "B. Normal sex life",
+            "C. Avoid overeating",
+            "D. Reduce activity"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "The main modes of metastasis of cancer are?",
+        "options": [
+            "A. Bloodstream metastasis",
+            "B. Infectious fever",
+            "C. Anemia",
+            "D. Unexplained lumps found on the body surface or near large joints or imaging examinations, or lumps that cannot subside for a long time after trauma"
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Esophageal cancer prevention recommendations",
+        "options": [
+            "A. Use physical or chemical sun protection outdoors to avoid exposure to the sun",
+            "B. Not smoking or quitting smoking",
+            "C. Eat more poultry, fish and shrimps",
+            "D. Don't take weight loss pills randomly"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "Characteristics of high-risk subjects for skin cancer",
+        "options": [
+            "A. Aged > 40 years old and have upper abdominal discomfort symptoms such as abdominal pain, bloating, acid reflux, and heartburn",
+            "B. nulliparous or primiparous women aged ≥35 years",
+            "C. Frequent exposure to the sun and ultraviolet rays",
+            "D. History of head and neck radiation exposure or radioactive dust exposure in childhood"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Symptoms of skin cancer are",
+        "options": [
+            "A. Upper abdominal pain: persistent or intermittent severe upper abdominal or low back pain",
+            "B. Jaundice: Yellowing of the skin and eyes, dark urine, and light stools.",
+            "C. Discolored patches: Irregular pigmented patches on the skin, which may be black, brown or other colors.",
+            "D. Digestive problems: loss of appetite, nausea, vomiting, indigestion."
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Characteristics of high-risk subjects for pancreatic cancer",
+        "options": [
+            "A. Recurrent episodes of chronic pancreatitis, especially chronic pancreatitis associated with pancreatic duct stones.",
+            "B. Moles appear on the soles of the feet, palms and other parts that are easily exposed to friction.",
+            "C. Frequent exposure to the sun and ultraviolet rays",
+            "D. Birthmarks that continue to grow or have recently grown significantly"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Symptoms of pancreatic cancer",
+        "options": [
+            "A. Upper abdominal pain: persistent or intermittent severe upper abdominal or low back pain.",
+            "B. Chronic gastric ulcer",
+            "C. Giant gastric mucosal fold sign",
+            "D. Autoimmune hepatitis"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "The symptoms of gallbladder cancer are",
+        "options": [
+            "A. RET gene mutation.",
+            "B. Chronic gastric ulcer",
+            "C. Abdominal mass: A mass or swelling in the gallbladder area that can be palpated.",
+            "D. Autoimmune hepatitis"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Early signs of brain tumors",
+        "options": [
+            "A. Chronic gastric ulcer.",
+            "B. Jaundice: Yellowing of the skin and eyes, dark urine, and light stools.",
+            "C. Moles appear on the soles of the feet, palms and other parts that are easily exposed to friction...",
+            "D. Headache, which often occurs early in the morning and is severe, gradually relieves or disappears after getting up and doing light activities."
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Which one is symptom of brain cancer?",
+        "options": [
+            "A. Diarrhea.",
+            "B. Cognitive impairment: inattention, memory loss, slow thinking",
+            "C. Hepatitis.",
+            "D. Different black spots appear on the body."
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "The symptoms of brain cancer are",
+        "options": [
+            "A. Digestive problems: loss of appetite, nausea, vomiting, indigestion...",
+            "B. Cognitive impairment: inattention, memory loss, slow thinking",
+            "C. Moles appear on the soles of the feet, palms and other parts that are easily exposed to friction.",
+            "D. Autoimmune hepatitis"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is a borderline tumor?",
+        "options": [
+            "A. Tumors between benign and malignant tumors",
+            "B. Tumors with carcinoma and sarcoma structures",
+            "C. Benign tumors with the potential to become cancerous",
+            "D. Tumors that occur at the junction of the epidermis and dermis"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Recommendations for the prevention of malignant melanoma",
+        "options": [
+            "A. It is especially important not to repeatedly trim or break pigmented nevus in special areas.",
+            "B. Promote a light, easily digestible, low-fat diet",
+            "C. People at risk of occupational exposure should take protective measures",
+            "D. It is recommended to quit smoking"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Ovarian cancer high-risk subjects",
+        "options": [
+            "A. Those who carry RAD51C or RAD51D or BRIP1 germline pathogenic variants or suspected pathogenic variants",
+            "B. 5. Have a history of chronic obstructive pulmonary disease or diffuse pulmonary fibrosis",
+            "C. Those who have multiple sexual partners",
+            "D. People infected with human papillomavirus (HPV)"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "The symptoms of ovarian cancer are",
+        "options": [
+            "A. Convulsions, muscle spasms, and increased blood calcium",
+            "B. Fever and weight loss occur, mainly low-grade fever, and the skin temperature of the swollen area increases significantly, etc.",
+            "C. Abdominal or pelvic pain or discomfort",
+            "D. Pain and swelling in bones and adjacent joints, aggravated at night, and the severity of pain has nothing to do with activity."
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Symptoms of bone tumors",
+        "options": [
+            "A. A hard mass appears at the bone and joint position, which cannot subside at rest and continues to grow.",
+            "B. Vomiting: Repeated vomiting",
+            "C. Mental and emotional changes: mood swings, depression, anxiety, etc.",
+            "D. Seizure: A sudden onset of convulsions or spasms."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What does cancer mean?",
+        "options": [
+            "A. Malignant tumors originating from epithelial tissues",
+            "B. Malignant tumors originating from mesenchymal tissues",
+            "C. general term for benign and malignant tumors",
+            "D. All malignant tumors"
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "Bladder cancer symptoms",
+        "options": [
+            "A. Anemia",
+            "B. Lymph node and hepatosplenomegaly",
+            "C. Bone and joint pain",
+            "D. Symptoms of hematuria"
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "What are the symptoms of late-stage thyroid cancer?",
+        "options": [
+            "A. Weight gain and constipation.",
+            "B. Painless lump in the neck.",
+            "C. Cough and shortness of breath.",
+            "D. Fever and rash."
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What to do if you have abdominal pain after cervical cancer surgery?",
+        "options": [
+            "A. Take over-the-counter pain medication.",
+            "B. Apply a heating pad to the abdomen.",
+            "C. Contact your doctor for further evaluation.",
+            "D. Ignore the pain and wait for it to resolve."
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "What should I do if I am diagnosed with gastric cancer?",
+        "options": [
+            "A. Consult with a surgical oncologist about potential surgery.",
+            "B. Discuss chemotherapy options with your healthcare team.",
+            "C. Explore targeted therapy options.",
+            "D. All of the above."
+        ],
+        "answer": "D"
+    },
+    {
+        "input": "What causes thyroid adenoma?",
+        "options": [
+            "A. Genetic mutations.",
+            "B. Exposure to radiation.",
+            "C. Hormonal imbalances.",
+            "D. Bacterial infection."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What treatments are better for brain tumors?",
+        "options": [
+            "A. Surgery.",
+            "B. Radiation therapy.",
+            "C. Chemotherapy.",
+            "D. Immunotherapy."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What are the benefits of oxygen therapy for cancer patients?",
+        "options": [
+            "A. Oxygen therapy can alleviate hypoxia in the body, eliminate fatigue and restore physical strength, improve work efficiency.",
+            "B. Oxygen therapy can reduce pain and discomfort symptoms, improve quality of life.",
+            "C. Oxygen therapy can inhibit the growth and spread of cancer cells.",
+            "D. Oxygen therapy can reduce side effects and enhance the effectiveness of cancer treatment."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What does the term 'San Zhong San Xiao' (Three Swellings and Three Wasting) refer to in lung cancer patients?",
+        "options": [
+            "A. Lung swelling, lymph node swelling, edema, wasting, loss of appetite, fatigue.",
+            "B. Headache, sore throat, fever, joint pain.",
+            "C. Shortness of breath, chest tightness, shortness of breath, cough, bloody sputum.",
+            "D. Abdominal mass, abdominal pain, nausea, vomiting."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What are the early symptoms of gastric cancer?",
+        "options": [
+            "A. Upper abdominal bloating, loss of appetite, weight loss, fatigue, nausea.",
+            "B. Headache, dizziness, limb paralysis.",
+            "C. Clearing phlegm, dry stools, swollen throat, fever.",
+            "D. Joint swelling and pain."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is a tumor?",
+        "options": [
+            "A. A collection of abnormally growing cells in the body.",
+            "B. The proliferation of normal cells in the body.",
+            "C. The growth of normal tissue.",
+            "D. The process of tissue development."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Do benign tumors require treatment? What are the treatment options?",
+        "options": [
+            "A. Yes, they may require treatment such as surgical removal, monitoring, radiation therapy, etc.",
+            "B. No, they may regress on their own.",
+            "C. They require chemotherapy treatment.",
+            "D. They require targeted therapy."
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is chemotherapy?",
+        "options": [
+            "A. Chemotherapy is a method of removing tumors through surgery.",
+            "B. Chemotherapy is a method of inhibiting the growth of tumor cells through medication.",
+            "C. Chemotherapy is a method of using radiation therapy to treat tumors.",
+            "D. Chemotherapy is a method of removing tumors through needle puncture or incision."
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the primary cause of cervical cancer?",
+        "options": [
+            "A. Human papillomavirus (HPV) infection",
+            "B. Smoking",
+            "C. Obesity",
+            "D. Hormonal imbalance"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which cancer is commonly associated with human immunodeficiency virus (HIV) infection?",
+        "options": [
+            "A. Lung cancer",
+            "B. Breast cancer",
+            "C. Kaposi sarcoma",
+            "D. Pancreatic cancer"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "What is the recommended screening test for breast cancer in women?",
+        "options": [
+            "A. Mammography",
+            "B. Pap smear",
+            "C. Colonoscopy",
+            "D. Prostate-specific antigen (PSA) test"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of cancer in children?",
+        "options": [
+            "A. Leukemia",
+            "B. Brain tumors",
+            "C. Neuroblastoma",
+            "D. Retinoblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is a common symptom of ovarian cancer?",
+        "options": [
+            "A. Abdominal bloating",
+            "B. Persistent cough",
+            "C. Back pain",
+            "D. Frequent urination"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the recommended screening method for colorectal cancer?",
+        "options": [
+            "A. Colonoscopy",
+            "B. Mammography",
+            "C. Pap smear",
+            "D. Prostate-specific antigen (PSA) test"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the primary treatment for breast cancer?",
+        "options": [
+            "A. Surgery",
+            "B. Radiation therapy",
+            "C. Chemotherapy",
+            "D. Targeted therapy"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of cancer in women?",
+        "options": [
+            "A. Breast cancer",
+            "B. Lung cancer",
+            "C. Colon cancer",
+            "D. Ovarian cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer is typically associated with exposure to asbestos?",
+        "options": [
+            "A. Lung cancer",
+            "B. Mesothelioma",
+            "C. Melanoma",
+            "D. Leukemia"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the recommended screening test for cervical cancer?",
+        "options": [
+            "A. Pap smear",
+            "B. Mammography",
+            "C. Colonoscopy",
+            "D. Prostate-specific antigen (PSA) test"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the primary treatment for testicular cancer?",
+        "options": [
+            "A. Surgery",
+            "B. Radiation therapy",
+            "C. Chemotherapy",
+            "D. Hormone therapy"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the characteristic symptom of pancreatic cancer?",
+        "options": [
+            "A. Jaundice",
+            "B. Severe headaches",
+            "C. Persistent cough",
+            "D. Chronic fatigue"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the blood cells and bone marrow?",
+        "options": [
+            "A. Leukemia",
+            "B. Glioma",
+            "C. Neuroblastoma",
+            "D. Rhabdomyosarcoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of lung cancer?",
+        "options": [
+            "A. Adenoid cystic carcinoma",
+            "B. Non-small cell lung cancer",
+            "C. Mesothelioma",
+            "D. Carcinoid tumor"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the most common type of prostate cancer?",
+        "options": [
+            "A. Adenocarcinoma",
+            "B. Sarcoma",
+            "C. Lymphoma",
+            "D. Neuroendocrine tumor"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the lymph nodes and lymphatic system?",
+        "options": [
+            "A. Leukemia",
+            "B. Lymphoma",
+            "C. Osteosarcoma",
+            "D. Glioma"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the most common type of liver cancer?",
+        "options": [
+            "A. Hepatocellular carcinoma",
+            "B. Cholangiocarcinoma",
+            "C. primary liver cancer",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of brain tumor in adults?",
+        "options": [
+            "A. Meningioma",
+            "B. Glioblastoma",
+            "C. Medulloblastoma",
+            "D. Pituitary adenoma"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "Which type of cancer affects the lymphatic system and immune cells?",
+        "options": [
+            "A. Carcinoma",
+            "B. Lymphoma",
+            "C. Neuroblastoma",
+            "D. Glioma"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the most common type of cervical cancer?",
+        "options": [
+            "A. Squamous cell carcinoma",
+            "B. Adenocarcinoma",
+            "C. Melanoma",
+            "D. Glioblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of esophageal cancer?",
+        "options": [
+            "A. Adenocarcinoma",
+            "B. Squamous cell carcinoma",
+            "C. Cholangiocarcinoma",
+            "D. Basal cell carcinoma"
+        ],
+        "answer": "B"
+    },
+    {
+        "input": "What is the most common type of pancreatic cancer?",
+        "options": [
+            "A. Adenocarcinoma",
+            "B. Sarcoma",
+            "C. Lymphoma",
+            "D. Neuroendocrine tumor"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of thyroid cancer has the highest incidence rate?",
+        "options": [
+            "A. Papillary thyroid cancer",
+            "B. Follicular thyroid cancer",
+            "C. Medullary thyroid cancer",
+            "D. Anaplastic thyroid cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the pancreas?",
+        "options": [
+            "A. Pancreatic adenocarcinoma",
+            "B. Chondrosarcoma",
+            "C. Rhabdomyosarcoma",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the bone marrow and lymphatic system?",
+        "options": [
+            "A. Leukemia",
+            "B. Osteosarcoma",
+            "C. Melanoma",
+            "D. Carcinoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the connective tissues of the body?",
+        "options": [
+            "A. Sarcoma",
+            "B. Carcinoma",
+            "C. Lymphoma",
+            "D. Melanoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of eye cancer in adults?",
+        "options": [
+            "A. Melanoma",
+            "B. Retinoblastoma",
+            "C. Squamous cell carcinoma",
+            "D. Glioblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the bone and cartilage?",
+        "options": [
+            "A. Chondrosarcoma",
+            "B. Osteosarcoma",
+            "C. Leukemia",
+            "D. Medulloblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the adrenal glands?",
+        "options": [
+            "A. Adrenocortical carcinoma",
+            "B. Hepatocellular carcinoma",
+            "C. Angiosarcoma",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the adrenal glands cell?",
+        "options": [
+            "A. Adrenocortical carcinoma",
+            "B. Neuroblastoma",
+            "C. Hepatocellular carcinoma",
+            "D. Angiosarcoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of liver cancer is the most prevalent?",
+        "options": [
+            "A. Hepatocellular carcinoma",
+            "B. Neuroendocrine tumor",
+            "C. Angiosarcoma",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which cancer is most closely related to adrenal cells?",
+        "options": [
+            "A. Adrenocortical carcinoma",
+            "B. cervical cancer",
+            "C. Angiosarcoma",
+            "D. brain cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells in the lining of the uterus?",
+        "options": [
+            "A. Endometrial cancer",
+            "B. Leiomyosarcoma",
+            "C. Choriocarcinoma",
+            "D. Angiosarcoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the lymphatic system?",
+        "options": [
+            "A. Lymphoma",
+            "B. Carcinoma",
+            "C. Sarcoma",
+            "D. Melanoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the prostate gland?",
+        "options": [
+            "A. Prostate cancer",
+            "B. Testicular cancer",
+            "C. Pancreatic cancer",
+            "D. Bladder cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells in the colon or rectum?",
+        "options": [
+            "A. Colorectal cancer",
+            "B. Pancreatic cancer",
+            "C. Lung cancer",
+            "D. Breast cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What type of cancer is associated with pancreatic cells?",
+        "options": [
+            "A. Pancreatic cancer",
+            "B. Chondrosarcoma",
+            "C. Liver cancer",
+            "D. Ovarian cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of liver cancer has the highest incidence rate?",
+        "options": [
+            "A. Hepatocellular carcinoma",
+            "B. Cholangiocarcinoma",
+            "C. Angiosarcoma",
+            "D. primary liver cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of kidney cancer in adults?",
+        "options": [
+            "A. Renal cell carcinoma",
+            "B. Wilms tumor",
+            "C. Transitional cell carcinoma",
+            "D. Neuroblastoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the ovaries?",
+        "options": [
+            "A. Ovarian cancer",
+            "B. Breast cancer",
+            "C. Endometrial cancer",
+            "D. Cervical cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the thyroid gland?",
+        "options": [
+            "A. Thyroid cancer",
+            "B. Adrenal cancer",
+            "C. Pituitary cancer",
+            "D. Parathyroid cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which cancer affects the the lymphatic system cells?",
+        "options": [
+            "A. Lymphoma",
+            "B. Sarcoma",
+            "C. Melanoma",
+            "D. cervical cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following lung cancers is the most common?",
+        "options": [
+            "A. Non-small cell lung cancer",
+            "B. Small cell lung cancer",
+            "C. Mesothelioma",
+            "D. Adenoid cystic carcinoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the colon or rectum?",
+        "options": [
+            "A. Colorectal cancer",
+            "B. Pancreatic cancer",
+            "C. Liver cancer",
+            "D. Ovarian cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What kind of cells does prostate cancer affect?",
+        "options": [
+            "A. Prostate cells",
+            "B. Testicular cells",
+            "C. Bladder cells",
+            "D. Renal cell"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Most people who get liver cancer get that type of liver cancer",
+        "options": [
+            "A. Hepatocellular carcinoma",
+            "B. Angiosarcoma",
+            "C. Neuroendocrine tumor",
+            "D. Cholangiocarcinoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the endometrial?",
+        "options": [
+            "A. Ovarian cancer",
+            "B. Breast cancer",
+            "C. Endometrial cancer",
+            "D. Cervical cancer"
+        ],
+        "answer": "C"
+    },
+    {
+        "input": "Pancreatic cells are associated with which of the following cancers?",
+        "options": [
+            "A. Pancreatic cancer",
+            "B. Lung cancer",
+            "C. Neuroblastoma",
+            "D. Liver cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the esophagus?",
+        "options": [
+            "A. Esophageal cancer",
+            "B. Stomach cancer",
+            "C. Pancreatic cancer",
+            "D. Lung cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which of the following is kidney cancer?",
+        "options": [
+            "A. Renal cell carcinoma",
+            "B. cell liver cancer",
+            "C. angiosarcoma",
+            "D. cholangiocarcinoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of thyroid cancer?",
+        "options": [
+            "A. Papillary carcinoma",
+            "B. Follicular carcinoma",
+            "C. Medullary carcinoma",
+            "D. Anaplastic carcinoma"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of lung cancer has the highest incidence rate?",
+        "options": [
+            "A. Non-small cell lung cancer",
+            "B. Medulloblastoma",
+            "C. Mesothelioma",
+            "D. Carcinoid tumor"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the ovaries?",
+        "options": [
+            "A. Ovarian cancer",
+            "B. liver cancer",
+            "C. brain cancer",
+            "D. Thyroid cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which cancer affects thyroid cells",
+        "options": [
+            "A. Thyroid cancer",
+            "B. Pituitary cancer",
+            "C. brain cancer",
+            "D. Adrenal cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "What is the most common type of leukemia in children?",
+        "options": [
+            "A. Acute lymphoblastic leukemia",
+            "B. Chronic lymphocytic leukemia",
+            "C. Acute myeloid leukemia",
+            "D. Chronic myeloid leukemia"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Pancreatic cells are most affected by which cancer?",
+        "options": [
+            "A. Pancreatic cancer",
+            "B. Liver cancer",
+            "C. Lung cancer",
+            "D. Colorectal cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": "Which type of cancer affects the cells of the breast?",
+        "options": [
+            "A. Breast cancer",
+            "B. Lung cancer",
+            "C. Ovarian cancer",
+            "D. Cervical cancer"
+        ],
+        "answer": "A"
+    },
+    {
+        "input": " I would like to know how to treat cholangiocarcinoma better?",
+        "options": [
+            "A. traditional Chinese medicine for anti-tumor treatment",
+            "B. immunity therapy",
+            "C. Chemicals",
+            "D. none"
+        ],
+        "answer": "A"
+    }
+]

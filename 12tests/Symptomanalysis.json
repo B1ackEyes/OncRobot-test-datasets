@@ -1,0 +1,92 @@
+[
+  {
+    "input": "What are some of the early symptoms of lung cancer that are often overlooked due to their similarity to general respiratory conditions?",
+    "options": {
+      "a": "Fever and joint pain",
+      "b": "Cough, bloody sputum, chest pain, and shortness of breath",
+      "c": "Digestive issues and weight loss",
+      "d": "Headache and blurred vision"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What is the recommended approach for treating lung cancer in its early stages?",
+    "options": {
+      "a": "Surgery to remove localized lesions and complementary traditional Chinese medicine",
+      "b": "Gamma Knife surgery and herbal supplements",
+      "c": "Avoiding medical intervention and relying on self-healing",
+      "d": "Exclusively relying on surgical removal of cancerous cells"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "What are the primary symptoms of meningiomas, and how do they typically manifest due to the tumor's expansive growth?",
+    "options": {
+      "a": "Digestive issues and weight loss",
+      "b": "Headaches and seizures",
+      "c": "Joint pain and blurred vision",
+      "d": "Respiratory difficulties and chest pain"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "What is the initial clinical manifestation commonly observed in bladder cancer patients?",
+    "options": {
+      "a": "Persistent abdominal pain",
+      "b": "Frequent urination with burning sensation",
+      "c": "Painless, intermittent, gross hematuria",
+      "d": "Sudden and severe lower back pain"
+    },
+    "answer": "c"
+  },
+  {
+    "input": "How might some bladder cancer patients misinterpret their condition, and what can contribute to the mistaken perception of recovery?",
+    "options": {
+      "a": "Believing that the cessation of hematuria after taking medication indicates recovery",
+      "b": "The continuous presence of lower back pain",
+      "c": "Frequent occurrence of painful urination",
+      "d": "Regular and uncontrollable episodes of gross hematuria"
+    },
+    "answer": "a"
+  },
+  {
+    "input": "What is the predominant nature of thyroid nodules, and how do benign and malignant nodules differ in terms of texture and growth characteristics?",
+    "options": {
+      "a": "Thyroid nodules are primarily malignant, and both benign and malignant nodules exhibit similar characteristics in texture and growth",
+      "b": "The majority of thyroid nodules are benign, and benign nodules are generally soft, grow slowly, and may cause compressive symptoms, while malignant nodules are hard, with rapid growth and smooth texture",
+      "c": "Benign and malignant thyroid nodules have identical textures and growth patterns",
+      "d": "All thyroid nodules should be immediately removed without differentiation"
+    },
+    "answer": "b"
+  },
+  {
+    "input": "Does an elevated level of 54,000 ng/mL of alpha-fetoprotein (AFP) indicate cancer?",
+    "options": [
+        "A. Yes, an elevated AFP level definitely indicates cancer.",
+        "B. Not necessarily, an elevated AFP level may indicate other diseases.",
+        "C. Cannot be determined, further testing is needed to determine if it is cancer.",
+        "D. An elevated AFP level cannot be used as a diagnostic basis for cancer."
+    ],
+    "answer": "B"
+  },
+  {
+    "input": "What are the early symptoms of gastric cancer?",
+    "options": [
+        "A. Upper abdominal bloating, loss of appetite, weight loss, fatigue, nausea.",
+        "B. Headache, dizziness, limb paralysis.",
+        "C. Clearing phlegm, dry stools, swollen throat, fever.",
+        "D. Joint swelling and pain."
+    ],
+    "answer": "A"
+  },
+  {
+    "input": "Symptoms associated with early-stage liver cancer?",
+    "options": [
+        "A. Abdominal bloating and diarrhea",
+        "B. Jaundice and discomfort in the liver area",
+        "C. Leg swelling and lower back pain",
+        "D. All of the above"
+    ],
+    "answer": "D"
+  }
+]

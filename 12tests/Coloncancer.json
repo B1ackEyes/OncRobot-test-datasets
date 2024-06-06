@@ -1,0 +1,72 @@
+[
+    {
+        "input": "Why do patients with colon cancer in the right half of the colon often exhibit symptoms such as anemia, low-grade fever, fatigue, weight loss, and edema in the late stages of the disease?",
+        "options": {
+          "a": "Narrow colon lumen and poor blood supply",
+          "b": "Wide colon lumen and abundant blood supply",
+          "c": "Rapid tumor growth",
+          "d": "Absence of lymphatic vessels"
+        },
+        "answer": "b"
+    },
+    {
+        "input": "Why is it recommended for postoperative colon cancer patients to include vegetables such as celery, leeks, cabbage, and radishes in their diet?",
+        "options": {
+          "a": "To enhance the taste of the meals",
+          "b": "To reduce bowel movements",
+          "c": "To stimulate bowel peristalsis and increase bowel movements",
+          "d": "To decrease the absorption of nutrients"
+        },
+        "answer": "c"
+    },
+    {
+      "input": "How long can one live with late-stage colon cancer?",
+      "options": [
+          "A. 1-2 years.",
+          "B. 3-5 years.",
+          "C. 5-10 years.",
+          "D. It varies depending on individual factors."
+      ],
+      "answer": "D"
+    },
+    {
+      "input": "Which screening method is commonly used for early detection of colon cancer?",
+      "options": {
+        "a": "Blood pressure measurement",
+        "b": "Mammography",
+        "c": "Colonoscopy",
+        "d": "Vision test"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "What is a common symptom of advanced colon cancer?",
+      "options": {
+        "a": "Constipation",
+        "b": "Weight loss",
+        "c": "Increased energy levels",
+        "d": "Improved appetite"
+      },
+      "answer": "b"
+    },
+    {
+      "input": "Which dietary component is associated with a lower risk of colon cancer?",
+      "options": {
+        "a": "Saturated fat",
+        "b": "Processed meats",
+        "c": "Fiber",
+        "d": "High red meat consumption"
+      },
+      "answer": "c"
+    },
+    {
+      "input": "What is a potential treatment option for localized colon cancer?",
+      "options": {
+        "a": "Radiation therapy",
+        "b": "Chemotherapy",
+        "c": "Surgery",
+        "d": "Antibiotic therapy"
+      },
+      "answer": "c"
+    }
+]
